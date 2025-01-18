@@ -5,9 +5,13 @@ REM # Para ello utilizaremos la plataforma GitHub
 
 REM # https://github.com/rodrigovittori/Ejemplo-Github-3070
 
-echo. ¡Hola mundo!
-echo. Soy una una nueva rama. Me llamo "dev" y represento la etapa de desarrollo
-echo. Mis programadores pueden enviar código en esta rama sin preocuparse de afectar
-echo. la versión que todos descargan de mi proyecto.
+echo. Soy una actualización más, pero no una cualquiera:
+echo. Ahora que nuestra nueva característica está terminada, es hora de mergear!
 
-echo. ¿Te animas a agregar a mi prima "test"? ¿Para qué crees que suelen crearla?
+echo. ¿Qué es "mergear"? Un merge es cuando unificamos los cambios de nuestra versión
+echo. con los de la versión principal (main).
+
+echo. Cuando todo esté listo, crea un Pull Request.
+
+echo. Un pull request es una solicitud para que "pullen"/"lleven" TUS archivos
+echo. hacia la versión principal.
