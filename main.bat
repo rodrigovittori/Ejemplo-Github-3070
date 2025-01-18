@@ -6,7 +6,8 @@ REM # Para ello utilizaremos la plataforma GitHub
 REM # https://github.com/rodrigovittori/Ejemplo-Github-3070
 
 echo. ¡Hola mundo!
-echo. Soy una modificación. Estas líneas sirven para demostrar que ocurre 
-echo. cuando tengo más de un commit pendiente de ser pusheado a GitHub
+echo. Soy una una nueva rama. Me llamo "dev" y represento la etapa de desarrollo
+echo. Mis programadores pueden enviar código en esta rama sin preocuparse de afectar
+echo. la versión que todos descargan de mi proyecto.
 
-echo. ¡Mirá mamá, estoy online! (Pusheamos a GitHub)
+echo. ¿Te animas a agregar a mi prima "test"? ¿Para qué crees que suelen crearla?
