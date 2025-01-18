@@ -10,6 +10,4 @@ echo. ¡Hola mundo!
 REM # Modificamos nuestro archivo para ejemplificar algunos cambios en el proyecto
 REM # (no te preocupes, pronto los revertiremos)
 
-REM # Agregamos OTRO cambio, no entres en pánico, también podemos revertir ésto
-
-echo. Soy la NUEVA nueva versión.
+echo. Soy una nueva versión.
