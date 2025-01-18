@@ -33,3 +33,5 @@ echo. Mensaje de [Abdiel] para el grupo:   ""
 echo. Mensaje de [Victor] para el grupo:   ""
 
 echo. Espero sus contribuciones :)
+
+echo. Ejemplo del profe: ¡Hola Pepito!
