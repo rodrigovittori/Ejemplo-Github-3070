@@ -19,7 +19,7 @@ echo. para que aprendan a trabajar en equipo :)
 echo. Mensaje de [Eithan] para el grupo:   ""
 echo. Mensaje de [Santiago] para el grupo: "Hola a todos, suerte con sus proyectos!"
 echo. Mensaje de [Gerardo] para el grupo:  ""
-echo. Mensaje de [Thiago] para el grupo:   ""
+echo. Mensaje de [Thiago] para el grupo:   "hola gente"
 echo. Mensaje de [Castiel] para el grupo:  ""
 echo. Mensaje de [Ismael] para el grupo:   ""
 
