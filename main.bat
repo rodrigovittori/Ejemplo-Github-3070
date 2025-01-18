@@ -5,13 +5,31 @@ REM # Para ello utilizaremos la plataforma GitHub
 
 REM # https://github.com/rodrigovittori/Ejemplo-Github-3070
 
-echo. Soy una actualización más, pero no una cualquiera:
-echo. Ahora que nuestra nueva característica está terminada, es hora de mergear!
+echo. Ya hemos aprendido a publicar (commit),
+echo. actualizar (push),
+echo. deshacer (revert),
+echo. separar (branch),
+echo. y unificar (merge) nuestro código.
 
-echo. ¿Qué es "mergear"? Un merge es cuando unificamos los cambios de nuestra versión
-echo. con los de la versión principal (main).
+echo.
 
-echo. Cuando todo esté listo, crea un Pull Request.
+echo. Ahora: Quiero que practiquen recuperar (fetch), y copiar (fork)
+echo. para que aprendan a trabajar en equipo :)
 
-echo. Un pull request es una solicitud para que "pullen"/"lleven" TUS archivos
-echo. hacia la versión principal.
+echo. Mensaje de [Eithan] para el grupo:   ""
+echo. Mensaje de [Santiago] para el grupo: ""
+echo. Mensaje de [Gerardo] para el grupo:  ""
+echo. Mensaje de [Thiago] para el grupo:   ""
+echo. Mensaje de [Castiel] para el grupo:  ""
+echo. Mensaje de [Ismael] para el grupo:   ""
+
+REM # OFFLINE
+
+echo. Mensaje de [Dayron] para el grupo:   ""
+echo. Mensaje de [Sneijder] para el grupo: ""
+echo. Mensaje de [César L.] para el grupo: ""
+echo. Mensaje de [César G.] para el grupo: ""
+echo. Mensaje de [Abdiel] para el grupo:   ""
+echo. Mensaje de [Victor] para el grupo:   ""
+
+echo. Espero sus contribuciones :)
