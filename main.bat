@@ -26,7 +26,7 @@ echo. Mensaje de [Ismael] para el grupo:   ""
 
 REM # OFFLINE
 
-echo. Mensaje de [Dayron] para el grupo:   ""
+echo. Mensaje de [Dayron] para el grupo:   "o/"
 echo. Mensaje de [Sneijder] para el grupo: ""
 echo. Mensaje de [César L.] para el grupo: ""
 echo. Mensaje de [César G.] para el grupo: ""
